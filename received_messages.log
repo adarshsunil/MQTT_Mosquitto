@@ -1,0 +1,2 @@
+2024-10-10 15:52:19,714 - Received message on topic 'devices/device1/status': Device 1 is online
+2024-10-10 15:52:19,716 - Received message on topic 'devices/device2/status': Device 2 is active
